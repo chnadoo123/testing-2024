@@ -1,1 +1,3 @@
 this iscommit from github UI
+
+2nd commit is from terminal
